@@ -55,6 +55,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 >git/svn
 1.git init -> .git
 2.git status
-3.git add.
+3.git add .
 4.git commit -m "zhushi"
-5.
+5.在代碼託管平台（github)新建遠程倉庫
+6.gi tpush
